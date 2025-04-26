@@ -1,12 +1,12 @@
-# 💻 Mª Eduarda Merlo
+# Mª Eduarda Merlo
 
 **`Desenvolvedora FullStack`**
 
-Olá! Me chamo Maria Eduarda, tenho 19 anos e sou de Curitiba (PR). Estou no último ano do curso de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Sou apaixonada por tecnologia e estou iniciando minha trajetória na área de desenvolvimento, com foco em aprendizado contínuo e evolução como profissional.
+Eu me chamo Maria Eduarda, tenho 19 anos e sou de Curitiba (PR). Estou no último ano do curso de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Estou começando minha jornada no mundo da tecnologia, com o objetivo de me aprimorar constantemente e evoluir como profissional.
 
 ##
 
-###  Linguagens Mais Usadas
+###  Linguagens e Tecnologias
 <div>
 
   <img 
