@@ -1,3 +1,5 @@
+<div align="center">
+
 # Mª Eduarda Merlo
 
 **`Desenvolvedora FullStack`**
@@ -8,9 +10,9 @@ Atualmente atuo com gestão de ativos de segurança, auditoria e documentação 
 
 ---
 
-###  Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
-<div>
+<p>
   <img alt="C" title="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img alt="C#" title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img alt="Kotlin" title="Kotlin" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
@@ -20,23 +22,8 @@ Atualmente atuo com gestão de ativos de segurança, auditoria e documentação 
   <img alt="PHP" title="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-</div>
+</p>
 
 ---
 
-###  Estatísticas GitHub
-
-<div align="center">
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=dudamerloc&show_icons=true&theme=date_night&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="center" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamerloc&theme=date_night&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 </div>
