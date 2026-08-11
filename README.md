@@ -87,24 +87,19 @@ Eu me chamo Maria Eduarda, tenho 19 anos e sou de Curitiba (PR). Estou no últim
 
 ---
 
-### 📊 Estatísticas GitHub
+### Estatísticas GitHub
 
 <div align="center">
-
-  <img
+  <img 
     align="center" 
     alt="GitHub Stats" 
-    height="180em" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=dudamerloc&show_icons=true&theme=date_night&include_all_commits=true&locale=pt-br" 
   />
-    <img 
+  <img 
     align="center" 
-    alt="GitHub Stats" 
-    height="180em" 
-    style="padding-right: 10px;" 
+    alt="Top Languages" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamerloc&theme=date_night&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </div>
-
